@@ -1,4 +1,4 @@
-package br.com.softplan;
+package br.com.sample;
 
 import java.util.ResourceBundle;
 
